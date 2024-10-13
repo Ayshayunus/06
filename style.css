@@ -226,7 +226,7 @@ input[type=submit]:hover{
 	backdrop-filter: blur(5px);
 	animation: opening 1s forwards;
 }
-span{
+.cb{
 	display: inline-block;
 	width: 80%;
 	text-align: start;
